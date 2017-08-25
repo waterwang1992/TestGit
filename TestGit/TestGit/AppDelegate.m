@@ -18,6 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"enne");
     NSLog(@"shia");
+    NSLog(@"shima");
    
     // Override point for customization after application launch.
     return YES;
