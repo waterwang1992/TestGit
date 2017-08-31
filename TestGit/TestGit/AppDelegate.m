@@ -18,6 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"enne");
     NSLog(@"log something");
+    NSLog(@"private_br1 do something");
     // Override point for customization after application launch.
     return YES;
 }
