@@ -19,6 +19,7 @@
     NSLog(@"enne");
     NSLog(@"log something");
     NSLog(@"private_br1 do something");
+    NSLog(@"shide");
     // Override point for customization after application launch.
     return YES;
 }
